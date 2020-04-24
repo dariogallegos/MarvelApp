@@ -25,7 +25,7 @@ Una vez descargado, abrir el archivo .xcodeproj, y lanzar el proyecto sobre un e
 ## Estructura del proyecto
 
 Está estructurado de la siguiente manera: 
-- Core: Contiene el modelo, las conexiones y las consultas y las funciones necesarias para conectarse a la API de marvel.
+- Core: Contiene el modelo de heroes, las conexiones y las consulta necesarias para conectarse a la API de marvel y constantes privadas.
 - Home: Pantalla principal de la aplicación. Contiene la vista y el controllador de la misma.
 - Detail: Pantalla de detalle. Contiene la vista y el controllador de la misma.
 
